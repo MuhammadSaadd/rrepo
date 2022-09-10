@@ -1,0 +1,2 @@
+First Line in git-repo
+Second line in git-repo
